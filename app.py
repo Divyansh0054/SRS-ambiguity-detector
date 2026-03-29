@@ -1,6 +1,9 @@
 import streamlit as st
 import joblib
 import nltk
+nltk.download('punkt')
+nltk.download('punkt_tab')
+nltk.data.path.append('/home/adminuser/nltk_data')
 import PyPDF2
 import docx
 from detector.ambiguity_detector import detect_ambiguity, highlight_sentence
@@ -10,8 +13,6 @@ st.set_page_config(
     page_icon="🔍",
     layout="wide"
 )
-
-nltk.download('punkt')
 
 model = joblib.load("ambiguity_model.pkl")
 vectorizer = joblib.load("tfidf_vectorizer.pkl")
