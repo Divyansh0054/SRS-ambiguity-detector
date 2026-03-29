@@ -1,0 +1,80 @@
+requirement,label
+The system should be fast,1
+The system should be efficient,1
+The system should be reliable,1
+The system should be scalable,1
+The system should be robust,1
+The system should be user friendly,1
+The application may crash occasionally,1
+The system may respond slowly during peak hours,1
+The system could fail under heavy load,1
+The system might need frequent updates,1
+The response time should be quick,1
+The system should process data efficiently,1
+The system should load quickly,1
+The system should work smoothly,1
+The system should handle many users,1
+The system should support several devices,1
+The system should manage large datasets,1
+The system should provide better performance,1
+The system should show improved results,1
+The system should enhance user experience,1
+The system may log errors if required,1
+The system should retry requests when necessary,1
+The system should generate reports properly,1
+The system should store data securely,1
+The system should validate inputs correctly,1
+The system could send notifications when needed,1
+The system should back up data regularly,1
+The system should recover quickly from failure,1
+The system should perform optimally at all times,1
+The system should adapt easily to changes,1
+The system must respond within 2 seconds,0
+The system shall support 100 concurrent users,0
+The system must encrypt all user data using AES-256,0
+The system shall log all errors with timestamps,0
+The system must maintain 99.9 percent uptime,0
+The system shall process requests within 500 milliseconds,0
+The system must authenticate users using OAuth 2.0,0
+The system shall store backups every 24 hours,0
+The system must generate reports in PDF format,0
+The system shall allow a maximum of 5 login attempts,0
+The system must support exactly 3 user roles,0
+The system shall send email notifications within 10 seconds,0
+The system must handle up to 1000 requests per minute,0
+The system shall validate all input fields before submission,0
+The system must display error messages in English,0
+The system shall store data in encrypted format,0
+The system must comply with ISO 27001 standards,0
+The system shall support Windows 10 and above,0
+The system must generate logs for every transaction,0
+The system shall refresh the dashboard every 30 seconds,0
+The system must lock the account after 5 failed attempts,0
+The system shall allow password reset via email verification,0
+The system must store user sessions for 30 minutes,0
+The system shall generate audit reports monthly,0
+The system must support file uploads up to 10 MB,0
+The system shall delete inactive accounts after 90 days,0
+The system must restrict access based on user roles,0
+The system shall compress files before storage,0
+The system must synchronize data every 15 minutes,0
+The system should process it quickly,1
+The system should store them efficiently,1
+The system should update it when required,1
+The system should handle many users,1
+The system should process large amounts of data,1
+The system should support several requests,1
+The system should handle errors properly,1
+The system should manage requests efficiently,1
+The system should improve performance,1
+The system should respond quickly,1
+The system should update data soon,1
+The system should process requests in a short time,1
+The system must respond quickly within 2 seconds,0
+The system shall efficiently process requests within 1 second,0
+The system must securely store data using AES encryption,0
+The system should provide support for multiple languages,1
+The system should be maintainable with training,1
+The system should be user friendly,1
+The system shall support English, Hindi, and Spanish,0
+The system must allow language selection from settings,0
